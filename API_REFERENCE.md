@@ -1,6 +1,6 @@
-# Audio2Note REST API Reference v1.0.0
+# Notin REST API Reference v1.0.0
 
-Welcome to the Audio2Note REST API. Our API allows you to integrate powerful, AI-driven clinical documentation directly into your applications.
+Welcome to the Notin REST API. Our API allows you to integrate powerful, AI-driven clinical documentation directly into your applications.
 
 ## Authentication
 
@@ -14,7 +14,7 @@ x-license-key: YOUR_LICENSE_KEY
 
 ## Endpoints
 
-The base URL for the production server is: `https://backend.audio2note.org/webhook/`
+The base URL for the production server is: `https://backend.notin.ai/webhook/`
 
 ### **Job Submission**
 

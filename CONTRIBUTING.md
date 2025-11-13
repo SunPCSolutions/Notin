@@ -1,12 +1,12 @@
-# Contributing to Audio2Note
+# Contributing to Notin
 
-Thank you for your interest in contributing to Audio2Note! Our mission is to provide a clinical documentation solution that is private, resource-efficient, and affordable for healthcare professionals. We are passionate about leveraging lightweight, specialized AI to protect patient data and reduce operational costs.
+Thank you for your interest in contributing to Notin! Our mission is to provide a clinical documentation solution that is private, resource-efficient, and affordable for healthcare professionals. We are passionate about leveraging lightweight, specialized AI to protect patient data and reduce operational costs.
 
 ## How to Contribute
 
 If you are interested in contributing your expertise in areas such as AI/ML, backend development, security, or EMR integration, we would love to hear from you.
 
-Please reach out to us through our [Contact Form](https://www.audio2note.org/?page_id=136) to discuss potential collaboration opportunities.
+Please reach out to us through our [Contact Form](https://www.notin.ai/?page_id=136) to discuss potential collaboration opportunities.
 
 ## Reporting Issues
 

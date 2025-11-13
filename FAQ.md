@@ -9,7 +9,7 @@ A: Processing time can vary depending on the length of the audio recording, the 
 A: We currently support `.wav`, `.mp3`, `.m4a`, `.flac`, and `.ogg` audio formats.
 
 ### Q: What should I do if my audio file fails to process?
-A: While our system is robust, occasional errors can occur. If a job fails, please contact us through our [website contact form](https://www.audio2note.org/?page_id=136). We maintain detailed logs and can diagnose the issue for you.
+A: While our system is robust, occasional errors can occur. If a job fails, please contact us through our [website contact form](https://www.notin.ai/?page_id=136). We maintain detailed logs and can diagnose the issue for you.
 
 ## Accuracy & Responsibility
 

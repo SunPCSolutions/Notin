@@ -1,6 +1,6 @@
 # HIPAA Compliance and Security
 
-At Audio2Note, we are deeply committed to protecting the privacy and security of patient health information (PHI). Our platform is designed with HIPAA compliance as a core principle.
+At Notin, we are deeply committed to protecting the privacy and security of patient health information (PHI). Our platform is designed with HIPAA compliance as a core principle.
 
 ## Key Security Measures
 
@@ -14,10 +14,10 @@ Our system is designed to minimize the exposure of PHI. We only process the audi
 Audio files and the generated text are **permanently deleted** from our service as soon as a processing job is successfully completed. We do not retain any PHI longer than is strictly necessary to provide the service.
 
 ### 4. Business Associate Agreement (BAA)
-We provide a formal Business Associate Agreement (BAA) to all our clients. This agreement contractually obligates Audio2Note to protect PHI in accordance with HIPAA regulations.
+We provide a formal Business Associate Agreement (BAA) to all our clients. This agreement contractually obligates Notin to protect PHI in accordance with HIPAA regulations.
 
 ## Caregiver Responsibility
 
-While we provide a secure and compliant platform, the end-user (the "Caregiver") is solely and exclusively responsible for the clinical accuracy and appropriateness of all patient records. The output of the Audio2Note service is a draft and must be thoroughly reviewed, edited, and verified by a licensed professional before being entered into a patient's permanent medical record.
+While we provide a secure and compliant platform, the end-user (the "Caregiver") is solely and exclusively responsible for the clinical accuracy and appropriateness of all patient records. The output of the Notin service is a draft and must be thoroughly reviewed, edited, and verified by a licensed professional before being entered into a patient's permanent medical record.
 
-For more detailed information, please review our [Legal Disclaimer](https://www.audio2note.org/?page_id=109).
+For more detailed information, please review our [Legal Disclaimer](https://www.notin.ai/?page_id=109).
