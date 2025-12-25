@@ -1,4 +1,4 @@
-# Notin Service
+# Notin.ai
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/SunPCSolutions/Notin)
 [![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://github.com/SunPCSolutions/Notin)
